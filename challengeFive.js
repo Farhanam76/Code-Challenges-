@@ -1,5 +1,3 @@
-// Feedback: PR
-
 // First attempt 
 
 let cardNumber = "";
