@@ -1,6 +1,6 @@
 
 function hideNumber(number){
-  cardNumber = number.toString();
+  const cardNumber = number.toString();
   const hiddenNumber = "*".repeat(cardNumber.length - 4)
    return cardNumber.slice(- 4) + hiddenNumber
   
