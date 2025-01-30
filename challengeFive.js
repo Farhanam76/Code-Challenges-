@@ -1,4 +1,5 @@
 
+
 function hideNumber(number){
   cardNumber = number.toString();
   const hiddenNumber = "*".repeat(cardNumber.length - 4)
@@ -8,3 +9,4 @@ function hideNumber(number){
 
 
 console.log(hideNumber(1234567893838))
+
